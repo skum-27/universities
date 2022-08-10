@@ -1,0 +1,7 @@
+img {
+    height: 300px;
+    width: 600px;
+}
+a:hover {
+    color: red;
+}
